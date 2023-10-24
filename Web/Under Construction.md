@@ -11,4 +11,5 @@ Trong tham số file mình thử nhập `../` nhiều lần để lùi về thư
 ![image](https://github.com/HoangThai0910/Cookiearena-writeup/assets/108949637/e4f2577c-87d1-4976-9552-1b544e7cdc4f)
 
 Mở file lên và chúng ta có flag
+
 Flag: CHH{unD3R_cOns7rUcTI0N_9fc464fc390361b5c17834d93d5bfa8d}
